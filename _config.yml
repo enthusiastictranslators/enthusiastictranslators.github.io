@@ -1,0 +1,28 @@
+# Site settings
+title: ترجمه گروهی کتاب تمرکز #website title
+description: > # this means to ignore newlines until "baseurl:"
+  ترجمه گروهی کتاب تمرکز
+url: #https://kuoa.github.io # the base hostname & protocol for your site
+baseurl: # the sub-path of your site, e.g. /blog/
+
+disqus_shortname: kuoa # leave empty if you don't want comments
+google_analytics: false #if set to "true" modify the google_analytycs.html, set to false otherwise
+
+# Links settings
+links:
+  - name:         خانه
+    url:          /
+  - name:         درباره ما
+    url:          /about
+    external:     false
+  - name:         آرشیو
+    url:          /archive
+    external:     false
+    external:     false
+
+# Build settings
+markdown: kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]

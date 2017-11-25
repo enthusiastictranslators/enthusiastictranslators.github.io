@@ -1,0 +1,24 @@
+---
+layout: main
+---
+
+<div class="home">
+    <div class="logo-header">
+        <img src='/assets/logo.png'>
+        <h1 class="post-title">{{ site.title }}</h1>
+    </div>
+<h1>{{ site.posts | size }}</h1>
+  <ul class="post-list">
+    {% for post in site.posts %}
+    <li>
+        <div>
+        <a class="post-link" href="{{ site.url }}{{ post.url}}">{{ post.title }}</a>
+        </div>
+    </li>
+    {% endfor %}
+  </ul>
+
+    <div class="footer center">
+
+    </div>
+</div>
