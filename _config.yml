@@ -2,7 +2,7 @@
 title: ترجمه گروهی کتاب تمرکز #website title
 description: > # this means to ignore newlines until "baseurl:"
   ترجمه گروهی کتاب تمرکز
-url: https://enthusiastictranslators.github.io/focus/
+url: https://enthusiastictranslators.github.io
 baseurl: # the sub-path of your site, e.g. /blog/
 
 disqus_shortname: kuoa # leave empty if you don't want comments
