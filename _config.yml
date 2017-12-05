@@ -3,7 +3,7 @@ title: ترجمه گروهی کتاب تمرکز #website title
 description: > # this means to ignore newlines until "baseurl:"
   ترجمه گروهی کتاب تمرکز
 url: https://enthusiastictranslators.github.io
-baseurl: 
+baseurl: /focus
 
 disqus_shortname: enthusiastictranslators # leave empty if you don't want comments
 google_analytics: false #if set to "true" modify the google_analytycs.html, set to false otherwise
