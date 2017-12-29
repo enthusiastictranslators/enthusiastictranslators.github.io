@@ -20,6 +20,37 @@ links:
     external:     false
     external:     false
 
+translators:
+ - name: فواد انصاری
+   email: foad.ansary@gmail.com
+ - name: سیروان عفیفی
+   email: sir1afifi@gmail.com
+ - name: داریوش زندی
+   email: Dariush.zandi.n@gmail.com
+ - name: یاور مشیرفر
+   email: moshirfar@gmail.com
+ - name: ادریس میرویسی
+   email: alikh_birjand@yahoo.com
+ - name: امیر آرامش
+   email: amin.aramesh@gmail.com
+ - name: مرتضی دوستی
+   email: morteza.dousti@gmail.com
+ - name: بهار بهمنی
+   email: bahar2333@yahoo.com
+ - name: ایمان میرزایی
+   email: ImanMirzaeiT@gmail.com
+ - name: معصومه شیخ مرادی
+   email: sheakhmoradi.m@gmail.com
+ - name: ستار کراشی
+   email: sattarkarashi@ymail.com
+ - name: مرضیه اثنا عشری
+   email: m.asnaashari93@gmail.com
+ - name: علی اختری
+   email: aaliiaakhtarii@gmail.com
+ - name: حانیه
+   email: hkalhor73@gmail.com
+
+
 # Build settings
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
