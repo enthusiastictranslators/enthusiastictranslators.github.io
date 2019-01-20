@@ -15,8 +15,8 @@ links:
   - name:         درباره ما
     url:          /about
     external:     false
-  - name:         آرشیو
-    url:          /archive
+  - name:         حمایت مالی
+    url:          /donate
     external:     false
     external:     false
 
